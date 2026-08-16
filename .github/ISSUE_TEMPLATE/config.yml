@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: 🚨 Güvenlik Açığı Bildirimi (Gizli)
-    url: mailto:guvenlik@afyonbeykozsk.org
-    about: Güvenlik açıkları için lütfen herkese açık issue açmayınız, doğrudan e-posta iletiniz.
-  - name: 🌐 Resmî Web Sitesi
-    url: https://afyonbeykozsk.org
-    about: Kulübümüz hakkında genel bilgi almak için sitemizi ziyaret ediniz.
