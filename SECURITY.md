@@ -20,7 +20,7 @@ Aşağıdaki tablo, güvenlik güncellemeleri ve yamaları alan aktif sürümler
 
 Sistemlerimizde potansiyel bir güvenlik açığı veya veri sızıntısı riski tespit ettiyseniz, lütfen bunu **herkese açık issue açarak DEĞİL**, aşağıdaki güvenli kanaldan doğrudan teknik ekibimize iletiniz:
 
-* 📧 **Güvenlik E-Postası:** [guvenlik@afyonbeykozsk.org](mailto:guvenlik@afyonbeykozsk.org)
+* 📧 **Güvenlik E-Postası:** [guvenlik@afyonbeykozsk.com](mailto:guvenlik@afyonbeykozsk.com)
 * ⏱️ **İlk Yanıt Süresi:** 24 saat içinde bildiriminiz incelenir ve teyit edilir.
 * 🛡️ **Yama Süreci:** Doğrulanan güvenlik açıkları için en geç 72 saat içinde düzeltme (hotfix) yayınlanır.
 
