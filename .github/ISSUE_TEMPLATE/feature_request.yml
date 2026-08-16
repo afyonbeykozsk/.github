@@ -1,0 +1,30 @@
+name: 💡 Yeni Özellik Talebi (Feature Request)
+description: Sistem için yeni bir işlev, modül veya geliştirme önerin.
+title: "[ÖZELLİK]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Afyon Beykoz SK platformuna değer katacak yeni modül veya arayüz önerilerinizi paylaşın.
+  - type: textarea
+    id: problem
+    attributes:
+      label: İhtiyaç / Çözülmek İstenen Problem
+      description: Bu özelliğe neden ihtiyaç duyuluyor? Hangi operasyonel veya yönetimsel engeli çözüyor?
+      placeholder: Kulüp operasyonlarında ... sürecinde şöyle bir zorluk yaşıyoruz.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Önerilen Çözüm / Özellik Detayı
+      description: Sisteme eklenmesini istediğiniz özelliğin nasıl çalışacağını tarif edin.
+      placeholder: Kullanıcılar ... butonuna tıklayarak ... işlemini gerçekleştirebilmeli.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Değerlendirilen Alternatifler
+      description: Düşündüğünüz alternatif yollar veya geçici çözümler varsa belirtin.
